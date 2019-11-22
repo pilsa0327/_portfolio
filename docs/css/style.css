@@ -1823,22 +1823,26 @@ h1, h2, h3, h4, h5,
   width: 70px; }
 
 .img-fluid{
-  width: 100px;
-  height: 100px;
+  width: 6.2rem;
+  height: 6.2rem;
 }
 
 .img-fluid2{
-  width: 400px;
-  height: 350px;
-  margin-left: 50px;
+  width: 25rem;
+  height: 22rem;
+  margin-left: 2.8rem;
 }
 .img-fluid3{
-  width: 275px;
-  height: 315px;
-  margin-left : 70px;
+  width: 17rem;
+  height: 20rem;
+  margin-left : 6rem;
 }
 
+.img-fluid4{
+  width: 25rem;
+  height: 22rem;
+}
   
 li{
-  font-size: 18px;
+  font-size: 1.1rem;
 }
